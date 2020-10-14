@@ -1,5 +1,4 @@
 # gitskills
 ## Fighting
-### GOOD JOB
-### A
-### B
+### 1
+### 2
